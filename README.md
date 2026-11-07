@@ -1,5 +1,5 @@
-# superstore-tableau-dashboard
-Interactive Tableau dashboard analyzing retail sales, profit, and discount impact | Tableau, Data Visualization
+# superstore-tableau-dashboard (Academic Project)
+Interactive Tableau dashboard analyzing retail sales, profit, and discount impact | Tableau, Data Visualization 
 # Retail Sales and Profitability Dashboard
 
 Tableau dashboard analyzing profitability, discounting, and regional performance across 9,994 retail orders (2014-2017).
